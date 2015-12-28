@@ -4,7 +4,7 @@ Developing on the workbench
 Quick start
 ===========
 
-To work with forks, first fork all repositories on [`scripts/repository-list.txt`](https://github.com/ederign/ederign.sh/tree/master/scripts/repository-list.txt) and [this repository](https://github.com/ederign/ederign.sh) too. Then run:
+To work with forks, first fork all repositories on [`scripts/repository-list.txt`](https://github.com/ederign/ederign.sh/blob/master/scripts/repository-list.txt) and [this repository](https://github.com/ederign/ederign.sh) too. Then run:
 
 ```shell
 $ git clone git@github.com:MY_GITHUB_USERNAME/ederign.sh.git
