@@ -1,0 +1,13 @@
+uberfire
+uberfire-extensions
+kie-uberfire-extensions
+guvnor
+kie-wb-common
+jbpm-form-modeler
+drools-wb
+jbpm-designer
+jbpm-console-ng
+dashboard-builder
+optaplanner-wb
+jbpm-dashboard
+kie-wb-distributions
